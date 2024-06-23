@@ -8,19 +8,19 @@
 - **GitHub:** [Arduino Temperature Warning System IoT](https://github.com/Waltberry/Arduino-Temperature-Warning-System-IoT-)
 
 ### Customer Churn Prediction in a Telecom Company
-- **Duration:** Sep 2024 – Sep 2024
+- **Duration:** Sep 2023 – Sep 2023
 - **Description:** Customer Churn Prediction in a Case Study Telecom Company.
-- **GitHub:** [Customer Churn Prediction in a Telecom Company](https://github.com/Waltberry/Data-Driven_Insights_for_Donor_Selection)
+- **GitHub:** [Customer Churn Prediction in a Telecom Company](https://github.com/Waltberry/Customer-Churn-Prediction-in-a-Telecom-Company)
 
 ### Data-Driven Insights for Donor Selection
 - **Duration:** Sep 2023 - Sep 2023
 - **Description:** Empowered a national charitable organization with machine learning insights to revolutionize fundraising campaigns.
-- **GitHub:** [Data-Driven Insights for Donor Selection](https://github.com/Waltberry/Customer-Churn-Prediction-in-a-Telecom-Company)
+- **GitHub:** [Data-Driven Insights for Donor Selection](https://github.com/Waltberry/Data-Driven_Insights_for_Donor_Selection) 
 
 ### Fine Tune BERT for Text Classification with TensorFlow
 - **Duration:** Sep 2022 - Sep 2022
 - **Description:** Implemented BERT for advanced text classification tasks.
-- **GitHub:** [Fine Tune BERT for Text Classification with Tensorflow](https://github.com/Waltberry/Fine_Tune_BERT)
+- **GitHub:** [Fine Tune BERT for Text Classification with Tensorflow](https://github.com/Waltberry/Fine-Tune-BERT-for-Text-Classification-with-TensorFlow)
 
 ### Object Localization with TensorFlow
 - **Duration:** Sep 2022 - Sep 2022
