@@ -1,5 +1,6 @@
 # Projects_list
-## <span style="color: #FF4500;">Projects</span>
+
+## Projects
 
 ### Arduino Temperature Warning System IoT
 - **Duration:** June 2024 - June 2024
@@ -154,5 +155,100 @@
 ### Who's Tweeting? Trump or Trudeau? (in Python)
 - **Duration:** Aug 2022 - Aug 2022
 - **Description:** Built a classifier to distinguish tweets between Trump and Trudeau.
-- **GitHub:** [Who's Tweeting?
+- **GitHub:**
+
+### Word Frequency in Classic Novels (in Python)
+- **Duration:** Aug 2022 - Aug 2022
+- **Description:** Used web scraping and NLP to find the most frequent words in one of two pieces of classic literature: Herman Melville's novel, Moby Dick, or Peter Pan by J. M. Barrie.
+- **GitHub:** [Word Frequency in Classic Novels (in Python)](https://github.com/Waltberry/Word-Frequency-in-Classic-Novels)
+
+### Writing Functions for Product Analysis (In Python)
+- **Duration:** Aug 2022 - Aug 2022
+- **Description:** Used coding best practices and functions to improve a script for a product analyst's task, pulling Net Promotor Score (NPS) survey data from multiple sources to calculate the NPS score.
+- **GitHub:** [Writing Functions for Product Analysis (In Python)](https://github.com/Waltberry/Writing-Functions-for-Product-Analysis)
+
+### Analyze International Debt Statistics (in SQL)
+- **Duration:** Jul 2022 - Jul 2022
+- **Description:** Wrote SQL queries to answer interesting questions about international debt using data from The World Bank.
+- **GitHub:** [Analyze International Debt Statistics (in SQL)](https://github.com/Waltberry/Analyze-International-Debt-Statistics)
+
+### Analyzing American Baby Name Trends (in SQL)
+- **Duration:** Jul 2022 - Jul 2022
+- **Description:** Used categorization and ranking techniques to explore 101 years of American baby name tastes.
+- **GitHub:** [Analyzing American Baby Name Trends (in SQL)](https://github.com/Waltberry/Analyzing-American-Baby-Name-Trends)
+
+### Analyzing NYC Public School Test Result Scores (in SQL)
+- **Duration:** Jul 2022 - Jul 2022
+- **Description:** Used summary statistics and filters to analyze test scores across New York City's public schools.
+- **GitHub:** [Analyzing NYC Public School Test Result Scores (in SQL)](https://github.com/Waltberry/Analyzing-NYC-Public-School-Test-Result-Scores)
+
+### Optimizing Online Sports Retail Revenue (in SQL)
+- **Duration:** Jul 2022 - Jul 2022
+- **Description:** Analyzed product data for an online sports retail company to optimize revenue.
+- **GitHub:** [Optimizing Online Sports Retail Revenue (in SQL)](https://github.com/Waltberry/Optimizing-Online-Sports-Retail-Revenue)
+
+### Predicting Credit Card Approvals (in Python)
+- **Duration:** Jun 2022 - Jul 2022
+- **Description:** Build a machine learning model to predict if a credit card application will get approved.
+- **GitHub:** [Predicting Credit Card Approvals (in Python)](https://github.com/Waltberry/Predicting-Credit-Card-Approvals)
+
+### What and Where are the World's Oldest Businesses (in SQL & in Python)
+- **Duration:** Jul 2022 - Jul 2022
+- **Description:** Used Joining techniques to discover the oldest businesses in the world.
+- **GitHub:** [What and Where are the World's Oldest Businesses (in SQL & in Python)](https://github.com/Waltberry/What-and-Where-are-the-Worlds-Oldest-Businesses)
+
+### When Was the Golden Age of Video Games (in SQL)
+- **Duration:** Jul 2022 - Jul 2022
+- **Description:** Used joins and set theory to discover the best years for video games.
+- **GitHub:** [When Was the Golden Age of Video Games (in SQL)](https://github.com/Waltberry/When-Was-the-Golden-Age-of-Video-Games)
+
+### A Visual History of Nobel Prize Winners (in Python)
+- **Duration:** Jun 2022 - Jun 2022
+- **Description:** Exploring a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
+- **GitHub:** [A Visual History of Nobel Prize Winners (in Python)](https://github.com/Waltberry/A-Visual-History-of-Nobel-Prize-Winners)
+
+### Dr. Semmelweis and the Discovery of Handwashing (in Python)
+- **Duration:** Jun 2022 - Jun 2022
+- **Description:** Re-analyze the data behind one of the most important discoveries of modern medicine: handwashing.
+- **GitHub:** [Dr. Semmelweis and the Discovery of Handwashing (in Python)](https://github.com/Waltberry/Dr-Semmelweis-and-the-Discovery-of-Handwashing)
+
+### Investigating Netflix Movies and Guest Stars in The Office (in Python)
+- **Duration:** May 2022 - Jun 2022
+- **Description:** Applying foundational Python skills by manipulating and visualizing movie and TV data.
+- **GitHub:** [Investigating Netflix Movies and Guest Stars in The Office (in Python)](https://github.com/Waltberry/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office)
+
+### The Android App Market on Google Play (in Python)
+- **Duration:** Jun 2022 - Jun 2022
+- **Description:** Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.
+- **GitHub:** [The Android App Market on Google Play (in Python)](https://github.com/Waltberry/The-Android-App-Market-on-Google-Play)
+
+### The GitHub History of the Scala Language (in Python)
+- **Duration:** Jun 2022 - Jun 2022
+- **Description:** Finding the true Scala experts by exploring its development history in Git and GitHub.
+- **GitHub:** [The GitHub History of the Scala Language (in Python)](https://github.com/Waltberry/The-GitHub-History-of-the-Scala-Language)
+
+### Hyperparameter Tuning with Keras Tuner (Guided Project)
+- **Duration:** Jan 2022 - Jan 2022
+- **Description:** Hyperparameter tuning with Keras tuner - a project focused on optimizing machine learning models.
+- **GitHub:** [Hyperparameter Tuning with Keras Tuner (Guided Project)](https://github.com/Waltberry/Hyperparameter-Tuning-with-Keras-Tuner)
+
+### Superhero Name Generator with TensorFlow (Guided Project)
+- **Duration:** Jan 2022 - Jan 2022
+- **Description:** Superhero Name Generator with TensorFlow - a project focused on Text Generation.
+- **GitHub:** [Superhero Name Generator with TensorFlow (Guided Project)](https://github.com/Waltberry/Superhero-Name-Generator-with-TensorFlow)
+
+### Bank Account Simulator
+- **Duration:** Nov 2021 - Nov 2021
+- **Description:** A bank simulator that allows deposits, withdrawals, and displays current account status.
+- **GitHub:** [Bank Account Simulator](https://github.com/Waltberry/Bank-Account-Simulator)
+
+### Credit Card Validator
+- **Duration:** Nov 2021 - Nov 2021
+- **Description:** A simple utility to detect and validate credit card numbers.
+- **GitHub:** [Credit Card Validator](https://github.com/Waltberry/Credit-Card-Validator)
+
+### Design and Construction of Battery Monitoring & Control Device using Internet of things (IoT)
+- **Duration:** Jan 2021 - Jul 2021
+- **Description:** Incorporation of IoT into battery monitoring & control device using PIC16F887 MICROCONTROLLER and A6 GSM/GPRS MODULE.
+- **GitHub:** [Design and Construction of Battery Monitoring & Control Device using IoT](https://github.com/Waltberry/Design-and-Construction-of-Battery-Monitoring-Control-Device-using-IoT)
 
