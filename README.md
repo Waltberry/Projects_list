@@ -6,6 +6,11 @@
 
 ## Projects
 
+### Stock Monitor
+- **Duration:** June 2024 - June 2024
+- **Description:** StockMonitor is a comprehensive application designed to monitor and analyze stock market trends. It provides users with real-time stock data and various tools to help them make informed investment decisions.
+- **GitHub:** [Stock Monitor](https://github.com/Waltberry/StockMonitor)
+
 ### Arduino Temperature Warning System IoT
 - **Duration:** June 2024 - June 2024
 - **Description:** The Arduino Temperature Warning System is an Internet-of-Things (IoT) project that uses an NTC Thermistor to monitor temperature and provide visual alerts through LEDs.
